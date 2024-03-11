@@ -1,0 +1,7 @@
+D:\tugas\project segitiga\Tugas 1 Semester 2\Tugas 1 Semester 2\bin\Debug\Tugas 1 Semester 2.exe.config
+D:\tugas\project segitiga\Tugas 1 Semester 2\Tugas 1 Semester 2\bin\Debug\Tugas 1 Semester 2.exe
+D:\tugas\project segitiga\Tugas 1 Semester 2\Tugas 1 Semester 2\bin\Debug\Tugas 1 Semester 2.pdb
+D:\tugas\project segitiga\Tugas 1 Semester 2\Tugas 1 Semester 2\obj\Debug\Tugas 1 Semester 2.csproj.AssemblyReference.cache
+D:\tugas\project segitiga\Tugas 1 Semester 2\Tugas 1 Semester 2\obj\Debug\Tugas 1 Semester 2.csproj.CoreCompileInputs.cache
+D:\tugas\project segitiga\Tugas 1 Semester 2\Tugas 1 Semester 2\obj\Debug\Tugas 1 Semester 2.exe
+D:\tugas\project segitiga\Tugas 1 Semester 2\Tugas 1 Semester 2\obj\Debug\Tugas 1 Semester 2.pdb
